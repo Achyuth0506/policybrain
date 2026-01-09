@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+.env.*
+
+# OS
+.DS_Store
+
+# Logs
+audit_log.json
+
+# Docker
+*.log
+
+# IDE
+.vscode/
+.idea/
+
