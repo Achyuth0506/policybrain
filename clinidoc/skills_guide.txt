@@ -1,6 +1,0 @@
-Backend Developer Skill Guide:
-- Strong Python proficiency required
-- SQL knowledge is essential
-- API design experience preferred
-- Fair evaluation policy: skills-based only
-
